@@ -3,7 +3,7 @@
 Fairly is a SaaS platform enabling talent acquisition teams to quickly find and hire high quality diverse talent for their company. Fairly is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code. This repository contains React code.
 My role as a software engineer was to implement the functionality of the landing and blogs page. I was required to handle all the coding for the frontend. Below is a list of the actions I took to accomplish my responsibilities.
 
-● Created service file that seamlessly connected front-end to the back-end, resulting in efficient data retrieval and thoroughly tested with Postman.
+● Created service file that seamlessly connected front-end to the back-end, resulting in efficient data retrieval.
 
 ● Designed components in React to maximize aesthetics and functionality.
 
