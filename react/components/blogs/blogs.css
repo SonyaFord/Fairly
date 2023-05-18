@@ -1,0 +1,16 @@
+.blog-img {
+    width: 24rem;
+    height: 230px;
+  }
+  
+  .blog-content {
+    font-size: 200%;
+  }
+  
+  .return-to-blogs-btn {
+    float: right;
+  }
+  
+  .blog-date-created {
+    float: right;
+  }
